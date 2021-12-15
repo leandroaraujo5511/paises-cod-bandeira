@@ -1,0 +1,2155 @@
+[
+	{
+		"codigo": "004", 
+		"fone": "0093", 
+		"iso": "AF", 
+		"iso3": "AFG", 
+		"nome": "Afeganistão", 
+		"nomeFormal": "República Islâmica do Afeganistão",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg"
+	},
+	{
+		"codigo": "008", 
+		"fone": "0355", 
+		"iso": "AL", 
+		"iso3": "ALB", 
+		"nome": "Albânia", 
+		"nomeFormal": "República da Albânia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg"
+		
+	},
+	{
+		"codigo": "012", 
+		"fone": "0213", 
+		"iso": "DZ", 
+		"iso3": "DZA", 
+		"nome": "Algéria", 
+		"nomeFormal": "República Democrática Popular da Algéria",
+		"Bandeira": "https://pt.wikipedia.org/wiki/Arg%C3%A9lia#/media/Ficheiro:Flag_of_Algeria.svg"
+	},
+	{
+		"codigo": "016", 
+		"fone": "1684", 
+		"iso": "AS", 
+		"iso3": "ASM", 
+		"nome": "Samoa Americana", 
+		"nomeFormal": "Território de Samoa Americana",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg"
+	},
+	{
+		"codigo": "020", 
+		"fone": "0376", 
+		"iso": "AD", 
+		"iso3": "AND", 
+		"nome": "Andorra", 
+		"nomeFormal": "Principado Andorra",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg"
+	},
+	{
+		"codigo": "024", 
+		"fone": "0244", 
+		"iso": "AO", 
+		"iso3": "AGO", 
+		"nome": "Angola", 
+		"nomeFormal": "República de Angola",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg"
+	},
+	{
+		"codigo": "660", 
+		"fone": "1264", 
+		"iso": "AI", 
+		"iso3": "AIA", 
+		"nome": "Anguilla", 
+		"nomeFormal": "Anguilla",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg"
+	},
+	{
+		"codigo": "010", 
+		"fone": "0672", 
+		"iso": "AQ", 
+		"iso3": "ATA", 
+		"nome": "Antártida", 
+		"nomeFormal": "Antártida",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Antarctica_%28orthographic_projection%29.svg"
+	},
+	{
+		"codigo": "028", 
+		"fone": "1268", 
+		"iso": "AG", 
+		"iso3": "ATG", 
+		"nome": "Antigua e Barbuda", 
+		"nomeFormal": "Antigua e Barbuda",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg"
+	},
+	{
+		"codigo": "032", 
+		"fone": "0054", 
+		"iso": "AR", 
+		"iso3": "ARG", 
+		"nome": "Argentina", 
+		"nomeFormal": "República Argentina",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+	},
+	{
+		"codigo": "051", 
+		"fone": "0374", 
+		"iso": "AM", 
+		"iso3": "ARM", 
+		"nome": "Armênia", 
+		"nomeFormal": "República da Armênia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg"
+	},
+	{
+		"codigo": "533", 
+		"fone": "0297", 
+		"iso": "AW", 
+		"iso3": "ABW", 
+		"nome": "Aruba", 
+		"nomeFormal": "Aruba",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Aruba.svg"
+	},
+	{
+		"codigo": "036", 
+		"fone": "0061", 
+		"iso": "AU", 
+		"iso3": "AUS", 
+		"nome": "Austrália", 
+		"nomeFormal": "Comunidade da Austrália",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg"
+	},
+	{
+		"codigo": "040", 
+		"fone": "0043", 
+		"iso": "AT", 
+		"iso3": "AUT", 
+		"nome": "Áustria", 
+		"nomeFormal": "República da Áustria",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
+	},
+	{
+		"codigo": "031", 
+		"fone": "0994", 
+		"iso": "AZ", 
+		"iso3": "AZE", 
+		"nome": "Azerbaijão", 
+		"nomeFormal": "República do Azerbaijão",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg"
+	},
+	{
+		"codigo": "044", 
+		"fone": "1242", 
+		"iso": "BS", 
+		"iso3": "BHS", 
+		"nome": "Bahamas", 
+		"nomeFormal": "Comunidade de Bahamas",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg"
+	},
+	{
+		"codigo": "048", 
+		"fone": "0973", 
+		"iso": "BH", 
+		"iso3": "BHR", 
+		"nome": "Bahrein", 
+		"nomeFormal": "Reino do Bahrein",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg"
+	},
+	{
+		"codigo": "050", 
+		"fone": "0880", 
+		"iso": "BD", 
+		"iso3": "BGD", 
+		"nome": "Bangladesh", 
+		"nomeFormal": "República Popular de Bangladesh",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+	},
+	{
+		"codigo": "052", 
+		"fone": "0246", 
+		"iso": "BB", 
+		"iso3": "BRB", 
+		"nome": "Barbados", 
+		"nomeFormal": "Barbados",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg"
+	},
+	{
+		"codigo": "112", 
+		"fone": "0375", 
+		"iso": "BY", 
+		"iso3": "BLR", 
+		"nome": "Bielorrússia", 
+		"nomeFormal": "República da Bielorrússia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg"
+	},
+	{
+		"codigo": "056", 
+		"fone": "0032", 
+		"iso": "BE", 
+		"iso3": "BEL", 
+		"nome": "Bélgica", 
+		"nomeFormal": "Reino da Bélgica",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
+	},
+	{
+		"codigo": "084", 
+		"fone": "0501", 
+		"iso": "BZ", 
+		"iso3": "BLZ", 
+		"nome": "Belize", 
+		"nomeFormal": "Belize",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg"
+	},
+	{
+		"codigo": "204", 
+		"fone": "0229", 
+		"iso": "BJ", 
+		"iso3": "BEN", 
+		"nome": "Benin", 
+		"nomeFormal": "República do Benin",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg"
+	},
+	{
+		"codigo": "060", 
+		"fone": "1441", 
+		"iso": "BM", 
+		"iso3": "BMU", 
+		"nome": "Bermuda", 
+		"nomeFormal": "Bermuda",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bermuda.svg"
+	},
+	{
+		"codigo": "064", 
+		"fone": "0975", 
+		"iso": "BT", 
+		"iso3": "BTN", 
+		"nome": "Butão", 
+		"nomeFormal": "Reino do Butão",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg"
+	},
+	{
+		"codigo": "068", 
+		"fone": "0591", 
+		"iso": "BO", 
+		"iso3": "BOL", 
+		"nome": "Bolívia", 
+		"nomeFormal": "Estado Plurinacional da Bolívia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_Bolivia_%28state%29.svg"
+	},
+	{
+		"codigo": "070", 
+		"fone": "0387", 
+		"iso": "BA", 
+		"iso3": "BIH", 
+		"nome": "Bósnia e Herzegovina", 
+		"nomeFormal": "Bósnia e Herzegovina",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg"
+	},
+	{
+		"codigo": "072", 
+		"fone": "0267", 
+		"iso": "BW", 
+		"iso3": "BWA", 
+		"nome": "Botswana", 
+		"nomeFormal": "República da Botswana",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg"
+	},
+	{
+		"codigo": "074", 
+		"fone": "0047", 
+		"iso": "BV", 
+		"iso3": "BVT", 
+		"nome": "Ilha Bouvet", 
+		"nomeFormal": "Ilha Bouvet",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bouvet_Island_on_the_globe_%28Antarctica_centered%29.svg"
+	},
+	{
+		"codigo": "076", 
+		"fone": "0055", 
+		"iso": "BR", 
+		"iso3": "BRA", 
+		"nome": "Brasil", 
+		"nomeFormal": "República Federativa do Brasil",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"
+	},
+	{
+		"codigo": "086", 
+		"fone": "0246", 
+		"iso": "IO", 
+		"iso3": "IOT", 
+		"nome": "Território Britânico do Oceano Índico", 
+		"nomeFormal": "Território Britânico do Oceano Índico",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg"
+	},
+	{
+		"codigo": "096", 
+		"fone": "0673", 
+		"iso": "BN", 
+		"iso3": "BRN", 
+		"nome": "Brunei", 
+		"nomeFormal": "Estado do Brunei Darussalam",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg"
+	},
+	{
+		"codigo": "100", 
+		"fone": "0359", 
+		"iso": "BG", 
+		"iso3": "BGR", 
+		"nome": "Bulgária", 
+		"nomeFormal": "República da Bulgária",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg"
+	},
+	{
+		"codigo": "854", 
+		"fone": "0226", 
+		"iso": "BF", 
+		"iso3": "BFA", 
+		"nome": "Burkina Faso", 
+		"nomeFormal": "Burkina Faso",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg"
+	},
+	{
+		"codigo": "108", 
+		"fone": "0257", 
+		"iso": "BI", 
+		"iso3": "BDI", 
+		"nome": "Burundi", 
+		"nomeFormal": "República do Burundi",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg"
+	},
+	{
+		"codigo": "116", 
+		"fone": "0855", 
+		"iso": "KH", 
+		"iso3": "KHM", 
+		"nome": "Camboja", 
+		"nomeFormal": "Reino do Camboja",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg"
+	},
+	{
+		"codigo": "120", 
+		"fone": "0237", 
+		"iso": "CM", 
+		"iso3": "CMR", 
+		"nome": "Camarões", 
+		"nomeFormal": "República de Camarões",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg"
+	},
+	{
+		"codigo": "124", 
+		"fone": "0001", 
+		"iso": "CA", 
+		"iso3": "CAN", 
+		"nome": "Canadá", 
+		"nomeFormal": "Canadá",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg"
+	},
+	{
+		"codigo": "132", 
+		"fone": "0238", 
+		"iso": "CV", 
+		"iso3": "CPV", 
+		"nome": "Cabo Verde", 
+		"nomeFormal": "República do Cabo Verde",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg"
+	},
+	{
+		"codigo": "136", 
+		"fone": "1345", 
+		"iso": "KY", 
+		"iso3": "CYM", 
+		"nome": "Ilhas Cayman", 
+		"nomeFormal": "Ilhas Cayman",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_the_Cayman_Islands.svg"
+	},
+	{
+		"codigo": "140", 
+		"fone": "0236", 
+		"iso": "CF", 
+		"iso3": "CAF", 
+		"nome": "República Centro-Africana", 
+		"nomeFormal": "República Centro-Africana",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg"
+	},
+	{
+		"codigo": "148", 
+		"fone": "0235", 
+		"iso": "TD", 
+		"iso3": "TCD", 
+		"nome": "Chade", 
+		"nomeFormal": "República do Chade",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg"
+	},
+	{
+		"codigo": "152", 
+		"fone": "0056", 
+		"iso": "CL", 
+		"iso3": "CHL", 
+		"nome": "Chile", 
+		"nomeFormal": "República do Chile",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg"
+	},
+	{
+		"codigo": "156", 
+		"fone": "0086", 
+		"iso": "CN", 
+		"iso3": "CHN", 
+		"nome": "China", 
+		"nomeFormal": "República Popular da China",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+	},
+	{
+		"codigo": "162", 
+		"fone": "0061", 
+		"iso": "CX", 
+		"iso3": "CXR", 
+		"nome": "Ilha Christmas", 
+		"nomeFormal": "Território da Ilha Christmas",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/67/Flag_of_Christmas_Island.svg"
+	},
+	{
+		"codigo": "166", 
+		"fone": "0672", 
+		"iso": "CC", 
+		"iso3": "CCK", 
+		"nome": "Ilhas Cocos (Keeling)", 
+		"nomeFormal": "Território das Ilhas Cocos (Keeling)",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg"
+	},
+	{
+		"codigo": "170", 
+		"fone": "0057", 
+		"iso": "CO", 
+		"iso3": "COL", 
+		"nome": "Colômbia", 
+		"nomeFormal": "República da Colômbia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"
+	},
+	{
+		"codigo": "174", 
+		"fone": "0269", 
+		"iso": "KM", 
+		"iso3": "COM", 
+		"nome": "Comores", 
+		"nomeFormal": "União das Comores",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg"
+	},
+	{
+		"codigo": "178", 
+		"fone": "0242", 
+		"iso": "CG", 
+		"iso3": "COG", 
+		"nome": "Congo", 
+		"nomeFormal": "República do Congo",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg"
+	},
+	{
+		"codigo": "180", 
+		"fone": "0242", 
+		"iso": "CD", 
+		"iso3": "COD", 
+		"nome": "Congo (DR)", 
+		"nomeFormal": "República Democrática do Congo",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg"
+	},
+	{
+		"codigo": "184", 
+		"fone": "0682", 
+		"iso": "CK", 
+		"iso3": "COK", 
+		"nome": "Ilhas Cook", 
+		"nomeFormal": "Ilhas Cook",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_the_Cook_Islands.svg"
+	},
+	{
+		"codigo": "188", 
+		"fone": "0506", 
+		"iso": "CR", 
+		"iso3": "CRI", 
+		"nome": "Costa Rica", 
+		"nomeFormal": "República da Costa Rica",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg"
+	},
+	{
+		"codigo": "384", 
+		"fone": "0225", 
+		"iso": "CI", 
+		"iso3": "CIV", 
+		"nome": "Costa do Marfim", 
+		"nomeFormal": "República da Costa do Marfim",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg"
+	},
+	{
+		"codigo": "191", 
+		"fone": "0385", 
+		"iso": "HR", 
+		"iso3": "HRV", 
+		"nome": "Croácia", 
+		"nomeFormal": "República da Croácia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg"
+	},
+	{
+		"codigo": "192", 
+		"fone": "0053", 
+		"iso": "CU", 
+		"iso3": "CUB", 
+		"nome": "Cuba", 
+		"nomeFormal": "República de Cuba",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg"
+	},
+	{
+		"codigo": "196", 
+		"fone": "0357", 
+		"iso": "CY", 
+		"iso3": "CYP", 
+		"nome": "Chipre", 
+		"nomeFormal": "República do Chipre",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg"
+	},
+	{
+		"codigo": "203", 
+		"fone": "0420", 
+		"iso": "CZ", 
+		"iso3": "CZE", 
+		"nome": "República Tcheca", 
+		"nomeFormal": "República Tcheca",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg"
+	},
+	{
+		"codigo": "208", 
+		"fone": "0045", 
+		"iso": "DK", 
+		"iso3": "DNK", 
+		"nome": "Dinamarca", 
+		"nomeFormal": "Reino da Dinamarca",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"
+	},
+	{
+		"codigo": "262", 
+		"fone": "0253", 
+		"iso": "DJ", 
+		"iso3": "DJI", 
+		"nome": "Djibuti", 
+		"nomeFormal": "República do Djibuti",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg"
+	},
+	{
+		"codigo": "212", 
+		"fone": "1767", 
+		"iso": "DM", 
+		"iso3": "DMA", 
+		"nome": "Dominica", 
+		"nomeFormal": "Comunidade da Dominica",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg"
+	},
+	{
+		"codigo": "214", 
+		"fone": "1809", 
+		"iso": "DO", 
+		"iso3": "DOM", 
+		"nome": "República Dominicana", 
+		"nomeFormal": "República Dominicana",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg"
+	},
+	{
+		"codigo": "218", 
+		"fone": "0593", 
+		"iso": "EC", 
+		"iso3": "ECU", 
+		"nome": "Equador", 
+		"nomeFormal": "República do Equador",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg"
+	},
+	{
+		"codigo": "818", 
+		"fone": "0020", 
+		"iso": "EG", 
+		"iso3": "EGY", 
+		"nome": "Egito", 
+		"nomeFormal": "República Árabe do Egito",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+	},
+	{
+		"codigo": "222", 
+		"fone": "0503", 
+		"iso": "SV", 
+		"iso3": "SLV", 
+		"nome": "El Salvador", 
+		"nomeFormal": "República El Salvador",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg"
+	},
+	{
+		"codigo": "226", 
+		"fone": "0240", 
+		"iso": "GQ", 
+		"iso3": "GNQ", 
+		"nome": "Guiné Equatorial", 
+		"nomeFormal": "República do Guiné Equatorial",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg"
+	},
+	{
+		"codigo": "232", 
+		"fone": "0291", 
+		"iso": "ER", 
+		"iso3": "ERI", 
+		"nome": "Eritreia", 
+		"nomeFormal": "Estado da Eritreia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg"
+	},
+	{
+		"codigo": "233", 
+		"fone": "0372", 
+		"iso": "EE", 
+		"iso3": "EST", 
+		"nome": "Estônia", 
+		"nomeFormal": "República da Estônia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg"
+	},
+	{
+		"codigo": "231", 
+		"fone": "0251", 
+		"iso": "ET", 
+		"iso3": "ETH", 
+		"nome": "Etiópia", 
+		"nomeFormal": "República Democrática Federal da Etiópia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+	},
+	{
+		"codigo": "238", 
+		"fone": "0500", 
+		"iso": "FK", 
+		"iso3": "FLK", 
+		"nome": "Ilhas Malvinas", 
+		"nomeFormal": "Ilhas Malvinas",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_Falkland_Islands.svg"
+	},
+	{
+		"codigo": "234", 
+		"fone": "0298", 
+		"iso": "FO", 
+		"iso3": "FRO", 
+		"nome": "Ilhas Faroe", 
+		"nomeFormal": "Ilhas Faroe",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_the_Faroe_Islands.svg"
+	},
+	{
+		"codigo": "242", 
+		"fone": "0679", 
+		"iso": "FJ", 
+		"iso3": "FJI", 
+		"nome": "Fiji", 
+		"nomeFormal": "República do Fiji",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg"
+	},
+	{
+		"codigo": "246", 
+		"fone": "0358", 
+		"iso": "FI", 
+		"iso3": "FIN", 
+		"nome": "Finlândia", 
+		"nomeFormal": "República da Finlândia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg"
+	},
+	{
+		"codigo": "250", 
+		"fone": "0033", 
+		"iso": "FR", 
+		"iso3": "FRA", 
+		"nome": "França", 
+		"nomeFormal": "República Francesa",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Flag_of_France_%281794–1815%2C_1830–1958%29.svg"
+	},
+	{
+		"codigo": "254", 
+		"fone": "0594", 
+		"iso": "GF", 
+		"iso3": "GUF", 
+		"nome": "Guiana Francesa", 
+		"nomeFormal": "Guiana Francesa",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931958%29.svg"
+	},
+	{
+		"codigo": "258", 
+		"fone": "0689", 
+		"iso": "PF", 
+		"iso3": "PYF", 
+		"nome": "Polinésia Francesa", 
+		"nomeFormal": "Polinésia Francesa",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_French_Polynesia.svg"
+	},
+	{
+		"codigo": "260", 
+		"fone": "0033", 
+		"iso": "TF", 
+		"iso3": "ATF", 
+		"nome": "Terras Austrais e Antárticas Francesas", 
+		"nomeFormal": "Território das Terras Austrais e Antárticas Francesas",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg"
+	},
+	{
+		"codigo": "266", 
+		"fone": "0241", 
+		"iso": "GA", 
+		"iso3": "GAB", 
+		"nome": "Gabão", 
+		"nomeFormal": "República Gabonesa",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg"
+	},
+	{
+		"codigo": "270", 
+		"fone": "0220", 
+		"iso": "GM", 
+		"iso3": "GMB", 
+		"nome": "Gâmbia", 
+		"nomeFormal": "República da Gâmbia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg"
+	},
+	{
+		"codigo": "268", 
+		"fone": "0995", 
+		"iso": "GE", 
+		"iso3": "GEO", 
+		"nome": "Geórgia", 
+		"nomeFormal": "Geórgia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg"
+	},
+	{
+		"codigo": "276", 
+		"fone": "0049", 
+		"iso": "DE", 
+		"iso3": "DEU", 
+		"nome": "Alemanha", 
+		"nomeFormal": "República Federal da Alemanha",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+	},
+	{
+		"codigo": "288", 
+		"fone": "0233", 
+		"iso": "GH", 
+		"iso3": "GHA", 
+		"nome": "Gana", 
+		"nomeFormal": "Repúblia de Gana",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg"
+	},
+	{
+		"codigo": "292", 
+		"fone": "0350", 
+		"iso": "GI", 
+		"iso3": "GIB", 
+		"nome": "Gibraltar", 
+		"nomeFormal": "Gibraltar",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg"
+	},
+	{
+		"codigo": "300", 
+		"fone": "0030", 
+		"iso": "GR", 
+		"iso3": "GRC", 
+		"nome": "Grécia", 
+		"nomeFormal": "República Helênica",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg"
+	},
+	{
+		"codigo": "304", 
+		"fone": "0299", 
+		"iso": "GL", 
+		"iso3": "GRL", 
+		"nome": "Groelândia", 
+		"nomeFormal": "Groelândia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Greenland.svg"
+	},
+	{
+		"codigo": "308", 
+		"fone": "1473", 
+		"iso": "GD", 
+		"iso3": "GRD", 
+		"nome": "Granada", 
+		"nomeFormal": "Granada",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg"
+	},
+	{
+		"codigo": "312", 
+		"fone": "0590", 
+		"iso": "GP", 
+		"iso3": "GLP", 
+		"nome": "Guadalupe", 
+		"nomeFormal": "Guadalupe",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Unofficial_flag_of_Guadeloupe_%28local%29.svg"
+	},
+	{
+		"codigo": "316", 
+		"fone": "1671", 
+		"iso": "GU", 
+		"iso3": "GUM", 
+		"nome": "Guão", 
+		"nomeFormal": "Território do Guão",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Guam.svg"
+	},
+	{
+		"codigo": "320", 
+		"fone": "0502", 
+		"iso": "GT", 
+		"iso3": "GTM", 
+		"nome": "Guatemala", 
+		"nomeFormal": "República da Guatemala",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg"
+	},
+	{
+		"codigo": "324", 
+		"fone": "0224", 
+		"iso": "GN", 
+		"iso3": "GIN", 
+		"nome": "Guiné", 
+		"nomeFormal": "República do Guiné",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg"
+	},
+	{
+		"codigo": "624", 
+		"fone": "0245", 
+		"iso": "GW", 
+		"iso3": "GNB", 
+		"nome": "Guiné-Bissau", 
+		"nomeFormal": "República da Guiné-Bissau",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg"
+	},
+	{
+		"codigo": "328", 
+		"fone": "0592", 
+		"iso": "GY", 
+		"iso3": "GUY", 
+		"nome": "Guiana", 
+		"nomeFormal": "República Cooperativa da Guiana",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg"
+	},
+	{
+		"codigo": "332", 
+		"fone": "0509", 
+		"iso": "HT", 
+		"iso3": "HTI", 
+		"nome": "Haiti", 
+		"nomeFormal": "República do Haiti",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg"
+	},
+	{
+		"codigo": "334", 
+		"fone": "0672", 
+		"iso": "HM", 
+		"iso3": "HMD", 
+		"nome": "Ilhas Heard e McDonald", 
+		"nomeFormal": "Território das Ilhas Heard e McDonald",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Heard_Island_and_McDonald_Islands-CIA_WFB_Map.png"
+	},
+	{
+		"codigo": "336", 
+		"fone": "0039", 
+		"iso": "VA", 
+		"iso3": "VAT", 
+		"nome": "Vaticano", 
+		"nomeFormal": "Estado da Cidade do Vaticano",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg"
+	},
+	{
+		"codigo": "340", 
+		"fone": "0504", 
+		"iso": "HN", 
+		"iso3": "HND", 
+		"nome": "Honduras", 
+		"nomeFormal": "República de Honduras",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg"
+	},
+	{
+		"codigo": "344", 
+		"fone": "0852", 
+		"iso": "HK", 
+		"iso3": "HKG", 
+		"nome": "Hong Kong", 
+		"nomeFormal": "Região Administrativa Especial de Hong Kong da República Popular da China",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg"
+	},
+	{
+		"codigo": "348", 
+		"fone": "0036", 
+		"iso": "HU", 
+		"iso3": "HUN", 
+		"nome": "Hungria", 
+		"nomeFormal": "Hungria",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+	},
+	{
+		"codigo": "352", 
+		"fone": "0354", 
+		"iso": "IS", 
+		"iso3": "ISL", 
+		"nome": "Islândia", 
+		"nomeFormal": "Islândia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg"
+	},
+	{
+		"codigo": "356", 
+		"fone": "0091", 
+		"iso": "IN", 
+		"iso3": "IND", 
+		"nome": "Índia", 
+		"nomeFormal": "República da Índia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg"
+	},
+	{
+		"codigo": "360", 
+		"fone": "0062", 
+		"iso": "ID", 
+		"iso3": "IDN", 
+		"nome": "Indonésia", 
+		"nomeFormal": "República da Indonésia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+	},
+	{
+		"codigo": "364", 
+		"fone": "0098", 
+		"iso": "IR", 
+		"iso3": "IRN", 
+		"nome": "Iran", 
+		"nomeFormal": "República Islâmica do Iran",
+		"Bandeira": "https://pt.wikipedia.org/wiki/Iran"
+	},
+	{
+		"codigo": "368", 
+		"fone": "0964", 
+		"iso": "IQ", 
+		"iso3": "IRQ", 
+		"nome": "Iraque", 
+		"nomeFormal": "República do Iraque",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg"
+	},
+	{
+		"codigo": "372", 
+		"fone": "0353", 
+		"iso": "IE", 
+		"iso3": "IRL", 
+		"nome": "Irlanda", 
+		"nomeFormal": "Irlanda",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg"
+	},
+	{
+		"codigo": "376", 
+		"fone": "0972", 
+		"iso": "IL", 
+		"iso3": "ISR", 
+		"nome": "Israel", 
+		"nomeFormal": "Estado de Israel",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"
+	},
+	{
+		"codigo": "380", 
+		"fone": "0039", 
+		"iso": "IT", 
+		"iso3": "ITA", 
+		"nome": "Itália", 
+		"nomeFormal": "República Italiana",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg"
+	},
+	{
+		"codigo": "388", 
+		"fone": "1876", 
+		"iso": "JM", 
+		"iso3": "JAM", 
+		"nome": "Jamaica", 
+		"nomeFormal": "Jamaica",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg"
+	},
+	{
+		"codigo": "392", 
+		"fone": "0081", 
+		"iso": "JP", 
+		"iso3": "JPN", 
+		"nome": "Japão", 
+		"nomeFormal": "Japão",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg"
+	},
+	{
+		"codigo": "400", 
+		"fone": "0962", 
+		"iso": "JO", 
+		"iso3": "JOR", 
+		"nome": "Jordânia", 
+		"nomeFormal": "Reino Hachemita da Jordânia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg"
+	},
+	{
+		"codigo": "398", 
+		"fone": "0007", 
+		"iso": "KZ", 
+		"iso3": "KAZ", 
+		"nome": "Cazaquistão", 
+		"nomeFormal": "República do Cazaquistão",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg"
+	},
+	{
+		"codigo": "404", 
+		"fone": "0254", 
+		"iso": "KE", 
+		"iso3": "KEN", 
+		"nome": "Quênia", 
+		"nomeFormal": "República do Quênia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg"
+	},
+	{
+		"codigo": "296", 
+		"fone": "0686", 
+		"iso": "KI", 
+		"iso3": "KIR", 
+		"nome": "Kiribati", 
+		"nomeFormal": "República do Kiribati",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg"
+	},
+	{
+		"codigo": "408", 
+		"fone": "0850", 
+		"iso": "KP", 
+		"iso3": "PRK", 
+		"nome": "Coreia do Norte", 
+		"nomeFormal": "República Democrática Popular da Coreia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg"
+	},
+	{
+		"codigo": "410", 
+		"fone": "0082", 
+		"iso": "KR", 
+		"iso3": "KOR", 
+		"nome": "Coreia do Sul", 
+		"nomeFormal": "República da Coreia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg"
+	},
+	{
+		"codigo": "414", 
+		"fone": "0965", 
+		"iso": "KW", 
+		"iso3": "KWT", 
+		"nome": "Kuwait", 
+		"nomeFormal": "Estado do Kuwait",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg"
+	},
+	{
+		"codigo": "417", 
+		"fone": "0996", 
+		"iso": "KG", 
+		"iso3": "KGZ", 
+		"nome": "Quirguistão", 
+		"nomeFormal": "República Quirguiz",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg"
+	},
+	{
+		"codigo": "418", 
+		"fone": "0856", 
+		"iso": "LA", 
+		"iso3": "LAO", 
+		"nome": "Laos", 
+		"nomeFormal": "República Democrática Popular Lau",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg"
+	},
+	{
+		"codigo": "428", 
+		"fone": "0371", 
+		"iso": "LV", 
+		"iso3": "LVA", 
+		"nome": "Letônia", 
+		"nomeFormal": "República da Letônia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg"
+	},
+	{
+		"codigo": "422", 
+		"fone": "0961", 
+		"iso": "LB", 
+		"iso3": "LBN", 
+		"nome": "Líbano", 
+		"nomeFormal": "República Libanesa",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg"
+	},
+	{
+		"codigo": "426", 
+		"fone": "0266", 
+		"iso": "LS", 
+		"iso3": "LSO", 
+		"nome": "Lesoto", 
+		"nomeFormal": "Reino do Lesoto",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg"
+	},
+	{
+		"codigo": "430", 
+		"fone": "0231", 
+		"iso": "LR", 
+		"iso3": "LBR", 
+		"nome": "Libéria", 
+		"nomeFormal": "República da Libéria",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg"
+	},
+	{
+		"codigo": "434", 
+		"fone": "0218", 
+		"iso": "LY", 
+		"iso3": "LBY", 
+		"nome": "Líbia", 
+		"nomeFormal": "Líbia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg"
+	},
+	{
+		"codigo": "438", 
+		"fone": "0423", 
+		"iso": "LI", 
+		"iso3": "LIE", 
+		"nome": "Liechtenstein", 
+		"nomeFormal": "Principado de Liechtenstein",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg"
+	},
+	{
+		"codigo": "440", 
+		"fone": "0370", 
+		"iso": "LT", 
+		"iso3": "LTU", 
+		"nome": "Lituânia", 
+		"nomeFormal": "República da Lituânia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg"
+	},
+	{
+		"codigo": "442", 
+		"fone": "0352", 
+		"iso": "LU", 
+		"iso3": "LUX", 
+		"nome": "Luxemburgo", 
+		"nomeFormal": "Grão-Ducado do Luxemburgo",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/7c/MAC.png"
+	},
+	{
+		"codigo": "446", 
+		"fone": "0853", 
+		"iso": "MO", 
+		"iso3": "MAC", 
+		"nome": "Macao", 
+		"nomeFormal": "Macao",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg"
+	},
+	{
+		"codigo": "807", 
+		"fone": "0389", 
+		"iso": "MK", 
+		"iso3": "MKD", 
+		"nome": "Macedônia", 
+		"nomeFormal": "República da Macedônia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg"
+	},
+	{
+		"codigo": "450", 
+		"fone": "0261", 
+		"iso": "MG", 
+		"iso3": "MDG", 
+		"nome": "Madagascar", 
+		"nomeFormal": "República de Madagascar",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg"
+	},
+	{
+		"codigo": "454", 
+		"fone": "0265", 
+		"iso": "MW", 
+		"iso3": "MWI", 
+		"nome": "Malawi", 
+		"nomeFormal": "República de Malawi",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg"
+	},
+	{
+		"codigo": "458", 
+		"fone": "0060", 
+		"iso": "MY", 
+		"iso3": "MYS", 
+		"nome": "Malásia", 
+		"nomeFormal": "Malásia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg"
+	},
+	{
+		"codigo": "462", 
+		"fone": "0960", 
+		"iso": "MV", 
+		"iso3": "MDV", 
+		"nome": "Maldivas", 
+		"nomeFormal": "Reública de Maldivas",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg"
+	},
+	{
+		"codigo": "466", 
+		"fone": "0223", 
+		"iso": "ML", 
+		"iso3": "MLI", 
+		"nome": "Mali", 
+		"nomeFormal": "República do Mali",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg"
+	},
+	{
+		"codigo": "470", 
+		"fone": "0356", 
+		"iso": "MT", 
+		"iso3": "MLT", 
+		"nome": "Malta", 
+		"nomeFormal": "República de Malta",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg"
+	},
+	{
+		"codigo": "584", 
+		"fone": "0692", 
+		"iso": "MH", 
+		"iso3": "MHL", 
+		"nome": "Ilhas Marshall", 
+		"nomeFormal": "República das Ilhas Marshall",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg"
+	},
+	{
+		"codigo": "474", 
+		"fone": "0596", 
+		"iso": "MQ", 
+		"iso3": "MTQ", 
+		"nome": "Martinica", 
+		"nomeFormal": "Martinica",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/92/Drapeau_aux_serpents_de_la_Martinique.svg"
+	},
+	{
+		"codigo": "478", 
+		"fone": "0222", 
+		"iso": "MR", 
+		"iso3": "MRT", 
+		"nome": "Mauritânia", 
+		"nomeFormal": "República Islâmica da Mauritânia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg"
+	},
+	{
+		"codigo": "480", 
+		"fone": "0230", 
+		"iso": "MU", 
+		"iso3": "MUS", 
+		"nome": "Maurício", 
+		"nomeFormal": "República de Maurício",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/be/Mauricio_de_Sousa_17_Bienal_do_Livro_7.jpg"
+	},
+	{
+		"codigo": "175", 
+		"fone": "0269", 
+		"iso": "YT", 
+		"iso3": "MYT", 
+		"nome": "Mayotte", 
+		"nomeFormal": "Departamento de Mayotte",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Mayotte_%28local%29.svg"
+	},
+	{
+		"codigo": "484", 
+		"fone": "0052", 
+		"iso": "MX", 
+		"iso3": "MEX", 
+		"nome": "México", 
+		"nomeFormal": "Estados Unidos Mexicanos",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+	},
+	{
+		"codigo": "583", 
+		"fone": "0691", 
+		"iso": "FM", 
+		"iso3": "FSM", 
+		"nome": "Micronésia", 
+		"nomeFormal": "Estados Federados da Micronesia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Micronesian_Cultural_Area.png"
+	},
+	{
+		"codigo": "498", 
+		"fone": "0373", 
+		"iso": "MD", 
+		"iso3": "MDA", 
+		"nome": "Moldova", 
+		"nomeFormal": "República de Moldova",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg"
+	},
+	{
+		"codigo": "492", 
+		"fone": "0377", 
+		"iso": "MC", 
+		"iso3": "MCO", 
+		"nome": "Mônaco", 
+		"nomeFormal": "Principado de Mônaco",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg"
+	},
+	{
+		"codigo": "496", 
+		"fone": "0976", 
+		"iso": "MN", 
+		"iso3": "MNG", 
+		"nome": "Mongólia", 
+		"nomeFormal": "Mongólia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg"
+	},
+	{
+		"codigo": "500", 
+		"fone": "1664", 
+		"iso": "MS", 
+		"iso3": "MSR", 
+		"nome": "Montserrat", 
+		"nomeFormal": "Montserrat",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Montserrat.svg"
+	},
+	{
+		"codigo": "504", 
+		"fone": "0212", 
+		"iso": "MA", 
+		"iso3": "MAR", 
+		"nome": "Marrocos", 
+		"nomeFormal": "Reino de Marrocos",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
+	},
+	{
+		"codigo": "508", 
+		"fone": "0258", 
+		"iso": "MZ", 
+		"iso3": "MOZ", 
+		"nome": "Moçambique", 
+		"nomeFormal": "República de Moçambique",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg"
+	},
+	{
+		"codigo": "104", 
+		"fone": "0095", 
+		"iso": "MM", 
+		"iso3": "MMR", 
+		"nome": "Birmânia", 
+		"nomeFormal": "República da União de Myanmar",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg"
+	},
+	{
+		"codigo": "516", 
+		"fone": "0264", 
+		"iso": "NA", 
+		"iso3": "NAM", 
+		"nome": "Namíbia", 
+		"nomeFormal": "República da Namíbia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg"
+	},
+	{
+		"codigo": "520", 
+		"fone": "0674", 
+		"iso": "NR", 
+		"iso3": "NRU", 
+		"nome": "Nauru", 
+		"nomeFormal": "República de Nauru",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg"
+	},
+	{
+		"codigo": "524", 
+		"fone": "0977", 
+		"iso": "NP", 
+		"iso3": "NPL", 
+		"nome": "Nepal", 
+		"nomeFormal": "República Democrática Federativa do Nepal",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg"
+	},
+	{
+		"codigo": "528", 
+		"fone": "0031", 
+		"iso": "NL", 
+		"iso3": "NLD", 
+		"nome": "Holanda", 
+		"nomeFormal": "Holanda",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+	},
+	{
+		"codigo": "530", 
+		"fone": "0599", 
+		"iso": "AN", 
+		"iso3": "ANT", 
+		"nome": "Antilhas Holandesas", 
+		"nomeFormal": "Antilhas Holandesas",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+	},
+	{
+		"codigo": "540", 
+		"fone": "0687", 
+		"iso": "NC", 
+		"iso3": "NCL", 
+		"nome": "Nova Caledônia", 
+		"nomeFormal": "Nova Caledônia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+	},
+	{
+		"codigo": "554", 
+		"fone": "0064", 
+		"iso": "NZ", 
+		"iso3": "NZL", 
+		"nome": "Nova Zelândia", 
+		"nomeFormal": "Nova Zelândia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg"
+	},
+	{
+		"codigo": "558", 
+		"fone": "0505", 
+		"iso": "NI", 
+		"iso3": "NIC", 
+		"nome": "Nicarágua", 
+		"nomeFormal": "República da Nicarágua",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg"
+	},
+	{
+		"codigo": "562", 
+		"fone": "0227", 
+		"iso": "NE", 
+		"iso3": "NER", 
+		"nome": "Niger", 
+		"nomeFormal": "República do Niger",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Flag_of_Niger_%283-2%29.svg"
+	},
+	{
+		"codigo": "566", 
+		"fone": "0234", 
+		"iso": "NG", 
+		"iso3": "NGA", 
+		"nome": "Nigéria", 
+		"nomeFormal": "República Federativa da Nigéria",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+	},
+	{
+		"codigo": "570", 
+		"fone": "0683", 
+		"iso": "NU", 
+		"iso3": "NIU", 
+		"nome": "Niue", 
+		"nomeFormal": "Niue",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Niue.svg"
+	},
+	{
+		"codigo": "574", 
+		"fone": "0672", 
+		"iso": "NF", 
+		"iso3": "NFK", 
+		"nome": "Ilha Norfolk", 
+		"nomeFormal": "Território da Ilha Norfolk",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Norfolk_Island.svg"
+	},
+	{
+		"codigo": "580", 
+		"fone": "1670", 
+		"iso": "MP", 
+		"iso3": "MNP", 
+		"nome": "Ilhas Marianas do Norte", 
+		"nomeFormal": "Comunidade das Ilhas Marianas do Norte",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_the_Northern_Mariana_Islands.svg"
+	},
+	{
+		"codigo": "578", 
+		"fone": "0047", 
+		"iso": "NO", 
+		"iso3": "NOR", 
+		"nome": "Noruega", 
+		"nomeFormal": "Reino da Noruega",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
+	},
+	{
+		"codigo": "512", 
+		"fone": "0968", 
+		"iso": "OM", 
+		"iso3": "OMN", 
+		"nome": "Omã", 
+		"nomeFormal": "Sultanato de Omã",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg"
+	},
+	{
+		"codigo": "586", 
+		"fone": "0092", 
+		"iso": "PK", 
+		"iso3": "PAK", 
+		"nome": "Paquistão", 
+		"nomeFormal": "República Islâmica do Paquistão",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+	},
+	{
+		"codigo": "585", 
+		"fone": "0680", 
+		"iso": "PW", 
+		"iso3": "PLW", 
+		"nome": "Palau", 
+		"nomeFormal": "República de Palau",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg"
+	},
+	{
+		"codigo": "275", 
+		"fone": "0970", 
+		"iso": "PS", 
+		"iso3": "PSE", 
+		"nome": "Palestina", 
+		"nomeFormal": "Estado da Palestina",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/64/Historical_boundaries_of_Palestine_%28plain%29.svg"
+	},
+	{
+		"codigo": "591", 
+		"fone": "0507", 
+		"iso": "PA", 
+		"iso3": "PAN", 
+		"nome": "Panamá", 
+		"nomeFormal": "República do Panamá",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg"
+	},
+	{
+		"codigo": "598", 
+		"fone": "0675", 
+		"iso": "PG", 
+		"iso3": "PNG", 
+		"nome": "Papua-Nova Guiné", 
+		"nomeFormal": "Estado Independente da Papua-Nova Guiné",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg"
+	},
+	{
+		"codigo": "600", 
+		"fone": "0595", 
+		"iso": "PY", 
+		"iso3": "PRY", 
+		"nome": "Paraguai", 
+		"nomeFormal": "República do Paraguai",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg"
+	},
+	{
+		"codigo": "604", 
+		"fone": "0051", 
+		"iso": "PE", 
+		"iso3": "PER", 
+		"nome": "Peru", 
+		"nomeFormal": "República do Peru",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg"
+	},
+	{
+		"codigo": "608", 
+		"fone": "0063", 
+		"iso": "PH", 
+		"iso3": "PHL", 
+		"nome": "Filipinas", 
+		"nomeFormal": "República das Filipinas",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+	},
+	{
+		"codigo": "612", 
+		"fone": "0672", 
+		"iso": "PN", 
+		"iso3": "PCN", 
+		"nome": "Ilhas Picárnia", 
+		"nomeFormal": "Ilhas Picárnia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_the_Pitcairn_Islands.svg"
+	},
+	{
+		"codigo": "616", 
+		"fone": "0048", 
+		"iso": "PL", 
+		"iso3": "POL", 
+		"nome": "Polônia", 
+		"nomeFormal": "República da Polônia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg"
+	},
+	{
+		"codigo": "620", 
+		"fone": "0351", 
+		"iso": "PT", 
+		"iso3": "PRT", 
+		"nome": "Portugal", 
+		"nomeFormal": "República Portuguesa",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+	},
+	{
+		"codigo": "630", 
+		"fone": "1787", 
+		"iso": "PR", 
+		"iso3": "PRI", 
+		"nome": "Porto Rico", 
+		"nomeFormal": "Comunidade do Porto Rico",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_Puerto_Rico.svg"
+	},
+	{
+		"codigo": "634", 
+		"fone": "0974", 
+		"iso": "QA", 
+		"iso3": "QAT", 
+		"nome": "Catar", 
+		"nomeFormal": "Estado do Catar",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg"
+	},
+	{
+		"codigo": "638", 
+		"fone": "0262", 
+		"iso": "RE", 
+		"iso3": "REU", 
+		"nome": "Reunião", 
+		"nomeFormal": "Polônia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/85/Conference_table.jpg"
+	},
+	{
+		"codigo": "642", 
+		"fone": "0040", 
+		"iso": "RO", 
+		"iso3": "ROM", 
+		"nome": "Romênia", 
+		"nomeFormal": "Romênia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg"
+	},
+	{
+		"codigo": "643", 
+		"fone": "0070", 
+		"iso": "RU", 
+		"iso3": "RUS", 
+		"nome": "Rússia", 
+		"nomeFormal": "Federação Russa",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
+	},
+	{
+		"codigo": "646", 
+		"fone": "0250", 
+		"iso": "RW", 
+		"iso3": "RWA", 
+		"nome": "Ruanda", 
+		"nomeFormal": "República da Ruanda",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg"
+	},
+	{
+		"codigo": "654", 
+		"fone": "0290", 
+		"iso": "SH", 
+		"iso3": "SHN", 
+		"nome": "Santa Helena", 
+		"nomeFormal": "Saint Helena",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Saint_Helena.svg"
+	},
+	{
+		"codigo": "659", 
+		"fone": "1869", 
+		"iso": "KN", 
+		"iso3": "KNA", 
+		"nome": "São Cristóvão", 
+		"nomeFormal": "São Cristóvão",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg"
+	},
+	{
+		"codigo": "662", 
+		"fone": "1758", 
+		"iso": "LC", 
+		"iso3": "LCA", 
+		"nome": "Santa Lúcia", 
+		"nomeFormal": "Santa Lúcia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg"
+	},
+	{
+		"codigo": "666", 
+		"fone": "0508", 
+		"iso": "PM", 
+		"iso3": "SPM", 
+		"nome": "São Pedro e Miquelon", 
+		"nomeFormal": "Coletividade Territorial de São Pedro e Miquelon",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+	},
+	{
+		"codigo": "670", 
+		"fone": "1784", 
+		"iso": "VC", 
+		"iso3": "VCT", 
+		"nome": "São Vicente e Granadinas", 
+		"nomeFormal": "São Vicente e Granadinas",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg"
+	},
+	{
+		"codigo": "882", 
+		"fone": "0684", 
+		"iso": "WS", 
+		"iso3": "WSM", 
+		"nome": "Samoa", 
+		"nomeFormal": "Estado Independente de Samoa",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg"
+	},
+	{
+		"codigo": "674", 
+		"fone": "0378", 
+		"iso": "SM", 
+		"iso3": "SMR", 
+		"nome": "São Marino", 
+		"nomeFormal": "República de São Marino",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg"
+	},
+	{
+		"codigo": "678", 
+		"fone": "0239", 
+		"iso": "ST", 
+		"iso3": "STP", 
+		"nome": "Sao Tomé e Príncipe", 
+		"nomeFormal": "República Democrática de Sao Tomé e Príncipe",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg"
+	},
+	{
+		"codigo": "682", 
+		"fone": "0966", 
+		"iso": "SA", 
+		"iso3": "SAU", 
+		"nome": "Arábia Saudita", 
+		"nomeFormal": "Reino da Arábia Saudita",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg"
+	},
+	{
+		"codigo": "686", 
+		"fone": "0221", 
+		"iso": "SN", 
+		"iso3": "SEN", 
+		"nome": "Senegal", 
+		"nomeFormal": "República do Senegal",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg"
+	},
+	{
+		"codigo": "688", 
+		"fone": "0381", 
+		"iso": "CS", 
+		"iso3": "SRB", 
+		"nome": "Sérvia e Montenegro", 
+		"nomeFormal": "União Estatal de Sérvia e Montenegro",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Flag_of_Yugoslavia_%281992%E2%80%932003%29%3B_Flag_of_Serbia_and_Montenegro_%282003%E2%80%932006%29.svg"
+	},
+	{
+		"codigo": "690", 
+		"fone": "0248", 
+		"iso": "SC", 
+		"iso3": "SYC", 
+		"nome": "Seicheles", 
+		"nomeFormal": "República das Seicheles",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg"
+	},
+	{
+		"codigo": "694", 
+		"fone": "0232", 
+		"iso": "SL", 
+		"iso3": "SLE", 
+		"nome": "República da Serra Leoa", 
+		"nomeFormal": "República da Serra Leoa",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg"
+	},
+	{
+		"codigo": "702", 
+		"fone": "0065", 
+		"iso": "SG", 
+		"iso3": "SGP", 
+		"nome": "Singapura", 
+		"nomeFormal": "República da Singapura",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg"
+	},
+	{
+		"codigo": "703", 
+		"fone": "0421", 
+		"iso": "SK", 
+		"iso3": "SVK", 
+		"nome": "Eslováquia", 
+		"nomeFormal": "República Eslovaca",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg"
+	},
+	{
+		"codigo": "705", 
+		"fone": "0386", 
+		"iso": "SI", 
+		"iso3": "SVN", 
+		"nome": "Eslovênia", 
+		"nomeFormal": "República da Eslovênia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg"
+	},
+	{
+		"codigo": "090", 
+		"fone": "0677", 
+		"iso": "SB", 
+		"iso3": "SLB", 
+		"nome": "Ilhas Salomão", 
+		"nomeFormal": "Ilhas Salomão",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg"
+	},
+	{
+		"codigo": "706", 
+		"fone": "0252", 
+		"iso": "SO", 
+		"iso3": "SOM", 
+		"nome": "Somália", 
+		"nomeFormal": "República da Somália",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg"
+	},
+	{
+		"codigo": "710", 
+		"fone": "0027", 
+		"iso": "ZA", 
+		"iso3": "ZAF", 
+		"nome": "África do Sul", 
+		"nomeFormal": "República da África do Sul",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
+	},
+	{
+		"codigo": "239", 
+		"fone": "0500", 
+		"iso": "GS", 
+		"iso3": "SGS", 
+		"nome": "Ilhas Geórgia do Sul e Sandwich do Sul", 
+		"nomeFormal": "Ilhas Geórgia do Sul e Sandwich do Sul",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg"
+	},
+	{
+		"codigo": "724", 
+		"fone": "0034", 
+		"iso": "ES", 
+		"iso3": "ESP", 
+		"nome": "Espanha", 
+		"nomeFormal": "Reino da Espanha",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
+	},
+	{
+		"codigo": "144", 
+		"fone": "0094", 
+		"iso": "LK", 
+		"iso3": "LKA", 
+		"nome": "Sri Lanka", 
+		"nomeFormal": "República Democrática Socialista do Sri Lanka",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg"
+	},
+	{
+		"codigo": "736", 
+		"fone": "0249", 
+		"iso": "SD", 
+		"iso3": "SDN", 
+		"nome": "Sudão", 
+		"nomeFormal": "República do Sudão",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg"
+	},
+	{
+		"codigo": "740", 
+		"fone": "0597", 
+		"iso": "SR", 
+		"iso3": "SUR", 
+		"nome": "Suriname", 
+		"nomeFormal": "República do Suriname",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg"
+	},
+	{
+		"codigo": "744", 
+		"fone": "0047", 
+		"iso": "SJ", 
+		"iso3": "SJM", 
+		"nome": "Esvalbarde", 
+		"nomeFormal": "Esvalbarde",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
+	},
+	{
+		"codigo": "748", 
+		"fone": "0268", 
+		"iso": "SZ", 
+		"iso3": "SWZ", 
+		"nome": "Suazilândia", 
+		"nomeFormal": "Reino da Suazilândia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg"
+	},
+	{
+		"codigo": "752", 
+		"fone": "0046", 
+		"iso": "SE", 
+		"iso3": "SWE", 
+		"nome": "Suécia", 
+		"nomeFormal": "Reino da Suécia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg"
+	},
+	{
+		"codigo": "756", 
+		"fone": "0041", 
+		"iso": "CH", 
+		"iso3": "CHE", 
+		"nome": "Suiça", 
+		"nomeFormal": "Confederação Suiça",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg"
+	},
+	{
+		"codigo": "760", 
+		"fone": "0963", 
+		"iso": "SY", 
+		"iso3": "SYR", 
+		"nome": "Síria", 
+		"nomeFormal": "República Árabe Síria",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg"
+	}, 
+	{
+		"codigo": "158", 
+		"fone": "0886", 
+		"iso": "TW", 
+		"iso3": "TWN", 
+		"nome": "Taiwan", 
+		"nomeFormal": "Taiwan",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg"
+	},
+	{
+		"codigo": "762", 
+		"fone": "0992", 
+		"iso": "TJ", 
+		"iso3": "TJK", 
+		"nome": "Tajiquistão", 
+		"nomeFormal": "República do Tajiquistão",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg"
+	},
+	{
+		"codigo": "834", 
+		"fone": "0255", 
+		"iso": "TZ", 
+		"iso3": "TZA", 
+		"nome": "Tanzânia", 
+		"nomeFormal": "República Unida da Tanzânia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg"
+	},
+	{
+		"codigo": "764", 
+		"fone": "0066", 
+		"iso": "TH", 
+		"iso3": "THA", 
+		"nome": "Tailândia", 
+		"nomeFormal": "Reino da Tailândia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg"
+	},
+	{
+		"codigo": "626", 
+		"fone": "0670", 
+		"iso": "TL", 
+		"iso3": "TLS", 
+		"nome": "Timor-Leste", 
+		"nomeFormal": "República Democrática de Timor-Leste",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg"
+	},
+	{
+		"codigo": "768", 
+		"fone": "0228", 
+		"iso": "TG", 
+		"iso3": "TGO", 
+		"nome": "Togo", 
+		"nomeFormal": "República Togolesa",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg"
+	},
+	{
+		"codigo": "772", 
+		"fone": "0690", 
+		"iso": "TK", 
+		"iso3": "TKL", 
+		"nome": "Toquelau", 
+		"nomeFormal": "Toquelau",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_Tokelau.svg"
+	},
+	{
+		"codigo": "776", 
+		"fone": "0676", 
+		"iso": "TO", 
+		"iso3": "TON", 
+		"nome": "Tonga", 
+		"nomeFormal": "Reino de Tonga",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg"
+	},
+	{
+		"codigo": "780", 
+		"fone": "1868", 
+		"iso": "TT", 
+		"iso3": "TTO", 
+		"nome": "Trinidad e Tobago", 
+		"nomeFormal": "República da Trinidad e Tobago",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg"
+	},
+	{
+		"codigo": "788", 
+		"fone": "0216", 
+		"iso": "TN", 
+		"iso3": "TUN", 
+		"nome": "Tunísia", 
+		"nomeFormal": "República da Tunísia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg"
+	},
+	{
+		"codigo": "792", 
+		"fone": "0090", 
+		"iso": "TR", 
+		"iso3": "TUR", 
+		"nome": "Turquia", 
+		"nomeFormal": "República da Turquia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+	},
+	{
+		"codigo": "795", 
+		"fone": "7370", 
+		"iso": "TM", 
+		"iso3": "TKM", 
+		"nome": "Turcomenistão", 
+		"nomeFormal": "Turcomenistão",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg"
+	},
+	{
+		"codigo": "796", 
+		"fone": "1649", 
+		"iso": "TC", 
+		"iso3": "TCA", 
+		"nome": "Ilhas Turks e Caicos", 
+		"nomeFormal": "Ilhas Turks e Caicos",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg"
+	},
+	{
+		"codigo": "798", 
+		"fone": "0688", 
+		"iso": "TV", 
+		"iso3": "TUV", 
+		"nome": "Tuvalu", 
+		"nomeFormal": "Tuvalu",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg"
+	},
+	{
+		"codigo": "800", 
+		"fone": "0256", 
+		"iso": "UG", 
+		"iso3": "UGA", 
+		"nome": "Uganda", 
+		"nomeFormal": "República de Uganda",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg"
+	},
+	{
+		"codigo": "804", 
+		"fone": "0380", 
+		"iso": "UA", 
+		"iso3": "UKR", 
+		"nome": "Ucrânia", 
+		"nomeFormal": "Ucrânia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+	},
+	{
+		"codigo": "784", 
+		"fone": "0971", 
+		"iso": "AE", 
+		"iso3": "ARE", 
+		"nome": "Emirados Árabes", 
+		"nomeFormal": "Emirados Árabes Unidos",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg"
+	},
+	{
+		"codigo": "826", 
+		"fone": "0044", 
+		"iso": "GB", 
+		"iso3": "GBR", 
+		"nome": "Reino Unido", 
+		"nomeFormal": "Reino Unido da Grã-Bretanha e Irlanda do Norte",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+	},
+	{
+		"codigo": "840", 
+		"fone": "0001", 
+		"iso": "US", 
+		"iso3": "USA", 
+		"nome": "Estados Unidos", 
+		"nomeFormal": "Estados Unidos da América",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
+	},
+	{
+		"codigo": "581", 
+		"fone": "0001", 
+		"iso": "UM", 
+		"iso3": "UMI", 
+		"nome": "Ilhas Menores Distantes dos Estados Unidos", 
+		"nomeFormal": "Ilhas Menores Distantes dos Estados Unidos",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
+	},
+	{
+		"codigo": "858", 
+		"fone": "0598", 
+		"iso": "UY", 
+		"iso3": "URY", 
+		"nome": "Uruguai", 
+		"nomeFormal": "República Oriental do Uruguai",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg"
+	},
+	{
+		"codigo": "860", 
+		"fone": "0998", 
+		"iso": "UZ", 
+		"iso3": "UZB", 
+		"nome": "Uzbequistão", 
+		"nomeFormal": "República do Uzbequistão",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg"
+	},
+	{
+		"codigo": "548", 
+		"fone": "0678", 
+		"iso": "VU", 
+		"iso3": "VUT", 
+		"nome": "Vanuatu", 
+		"nomeFormal": "República de Vanuatu",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg"
+	},
+	{
+		"codigo": "862", 
+		"fone": "0058", 
+		"iso": "VE", 
+		"iso3": "VEN", 
+		"nome": "Venezuela", 
+		"nomeFormal": "República Bolivariana da Venezuela",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg"
+	},
+	{
+		"codigo": "704", 
+		"fone": "0084", 
+		"iso": "VN", 
+		"iso3": "VNM", 
+		"nome": "Vietnam", 
+		"nomeFormal": "República Socialista do Vietnam",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+	},
+	{
+		"codigo": "092", 
+		"fone": "1284", 
+		"iso": "VG", 
+		"iso3": "VGB", 
+		"nome": "Ilhas Virgens Inglesas", 
+		"nomeFormal": "Ilhas Virgens",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_British_Virgin_Islands.svg"
+	},
+	{
+		"codigo": "850", 
+		"fone": "1340", 
+		"iso": "VI", 
+		"iso3": "VIR", 
+		"nome": "Ilhas Virgens (USA)", 
+		"nomeFormal": "Ilhas Virgens dos Estados Unidos",
+		"Bandeira": "https://pt.wikipedia.org/wiki/Ilhas_Virgens_(USA)"
+	},
+	{
+		"codigo": "876", 
+		"fone": "0681", 
+		"iso": "WF", 
+		"iso3": "WLF", 
+		"nome": "Wallis e Futuna", 
+		"nomeFormal": "Wallis e Futuna",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Flag_of_Wallis_and_Futuna.svg"
+	},
+	{
+		"codigo": "732", 
+		"fone": "0212", 
+		"iso": "EH", 
+		"iso3": "ESH", 
+		"nome": "Saara Ocidental", 
+		"nomeFormal": "Saara Ocidental",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg"
+	},
+	{
+		"codigo": "887", 
+		"fone": "0967", 
+		"iso": "YE", 
+		"iso3": "YEM", 
+		"nome": "Iêmen", 
+		"nomeFormal": "República do Iêmen",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg"
+	},
+	{
+		"codigo": "894", 
+		"fone": "0260", 
+		"iso": "ZM", 
+		"iso3": "ZMB", 
+		"nome": "Zâmbia", 
+		"nomeFormal": "República do Zâmbia",
+		"Bandeira": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg"
+	},
+	{
+	"codigo": "716", 
+	"fone": "0263", 
+	"iso": "ZW", 
+	"iso3": "ZWE", 
+	"nome": "Zimbábue", 
+	"nomeFormal": "República do Zimbábue",
+	"Bandeira": "https:media.org/wikipedia/commons/a/ae/Zimbabwe_Provinces_numbered_300px.png"
+	}
+]
+
